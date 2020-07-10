@@ -1,2 +1,5 @@
 # Let user choose their version from zip
 chromedriver
+
+# Macs stink... leave this file behind
+.DS_Store

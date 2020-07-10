@@ -1,5 +1,5 @@
 # Panera_Coffee
-Free panera coffee at the click of a button (for summer 2020). This is a simple selenium script meant to demonstrate how to interact with chromium web browser.
+Free Panera coffee at the click of a button (for summer 2020). This is a simple selenium script meant to demonstrate how to interact with chromium web browser.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Download zip repo and unzip your specific chromedriver zip file
 ## Execution
 
 ```
-python3 main.py --username --password
+python3 main.py --username <your paner email> --password <your panera password>
 ```
 
 ## Authors
@@ -31,4 +31,4 @@ See also the list of [contributors](https://github.com/bjhobson12/Panera_Coffee/
 
 ## Liability
 
-Use this repo at your own risk. I do not assume liability in any way for this program; it is a simple demonstration of Selenium technology, used to order a coffee from Panera. This project was created independent of [Panera Bread](panerabread.com).
+Use this repo at your own risk. I do not assume liability in any way for this program; it is a simple demonstration of Selenium technology, used to order a coffee from Panera. This project was created independent of [Panera Bread](www.panerabread.com).
